@@ -1,6 +1,8 @@
 [![GC Start](gcp_banner.png)](https://cloud.google.com/?utm_source=github&utm_medium=referral&utm_campaign=GCP&utm_content=packages_repository_banner)
 # Foundation Data Pipeline with Google Cloud
 
+
+##  Check Credentials 
 ## Introduction
 
 _This architecture uses click-to-deploy so you can spin up infrastructure in minutes using terraform!_
